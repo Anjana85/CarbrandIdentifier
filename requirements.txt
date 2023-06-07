@@ -50,8 +50,6 @@ notebook==6.0.3
 numpy==1.18.4
 opt-einsum==3.2.1
 packaging==20.4
-pandas==1.0.3
-pandas-datareader==0.8.1
 pandocfilters==1.4.2
 parso==0.7.0
 pexpect==4.8.0
